@@ -97,22 +97,10 @@ st.write(
     """
 )
 
-car_col1, car_col2 = st.columns(2)
+
 car_col3, car_col4 = st.columns(2)
 
-with car_col1:
-    st.image(
-        "https://images.pexels.com/photos/356830/pexels-photo-356830.jpeg",
-        caption="Mahindra XUV700 – Power & Presence",
-        use_column_width=True
-    )
 
-with car_col2:
-    st.image(
-        "https://images.pexels.com/photos/358070/pexels-photo-358070.jpeg",
-        caption="Toyota Fortuner – Dominance on Road",
-        use_column_width=True
-    )
 
 with car_col3:
     st.image(
