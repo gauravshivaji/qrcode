@@ -26,7 +26,7 @@ col1, col2 = st.columns([1, 2])
 
 with col1:
     st.image(
-        "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg",
+        "WhatsApp Image 2025-11-19 at 1.31.07 PM.jpeg",
         caption="Sandeep Ramchandra Gavali",
         use_column_width=True
     )
